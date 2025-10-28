@@ -41,6 +41,9 @@ A simple mapmaker for 2D games  built in C++ using the RayLib API and nlhomman.j
 **Highlights:**
 - 2D map creation 
 
+## 📫 Contact
+- **Email:** [samuelgichuru42@gmail.com](mailto:samuelgichuru42@gmail.com)
+- **GitHub:** [@SAmWaM42](https://github.com/SAmWaM42)
 
 
 <!--
