@@ -3,7 +3,19 @@
 ## 💼 About Me
 I am a 3rd Year Computer Science Student currently studying in Strathmore University.I have experience working with **React**, **Node.js**,**Python**,**C++**,**PHP** and **JAVA**
 
+## 🎓 Education
+- **Bachelor of Science in Computer Science** – , 2023 – 2027  
+  - Ongoing
+  - Current Overall Grade : A   
+  - Relevant Courses: Data Structures & Algorithms, Web and Web Application Development, AI , Advanced Networking
+
+- **High School Diploma** – Thika High School , 2019 – 2022  
+  - Final Grade : B+
+  - Relevant Subjects : Maths: A , English : B , Physics : B+
+  
+
 ## 🧠 Skills
+
 - Frontend:React
 - Backend: Node.js, Express
 - Tools: Git,Xampp
@@ -42,11 +54,10 @@ A simple mapmaker for 2D games  built in C++ using the RayLib API and nlhomman.j
 - 2D map creation 
 
 ## 🎨Interests
-- **Game development**
-- **Charachter Design**
-- **CyberSecurity and Networking**
-- **Low level programming**
-
+- 📚 **Reading & Learning** – Tech articles, books, and tutorials to keep my skills sharp.  
+- 🌍 **Travel & Adventure** – Exploring new cultures, hiking, and discovering hidden gems around the world.  
+- 🎨 **Creative Arts** – Drawing, digital art, and experimenting with design projects  
+- 🧩 **Problem Solving & Puzzles** – Brain teasers, coding challenges, and logic game
 
 ## 📫 Contact
 - **Email:** [samuelgichuru42@gmail.com](mailto:samuelgichuru42@gmail.com)
